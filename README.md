@@ -4,9 +4,11 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## 🧠 Get to know about me
 - 🌱 I’m currently learning **Artificial Intelligence**
 - 📫 How to reach me **ray20150603@gmail.com**
+
 ## 💡 Projects
 - [Movie Review Website](https://github.com/2023FallDatabase/FinalProject)
 
